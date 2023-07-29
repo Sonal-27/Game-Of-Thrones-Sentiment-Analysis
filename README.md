@@ -1,4 +1,4 @@
-# Game-Of-Thrones-Sentiment-Analysis
+# Identifying The Most Rewatchable Season Of “Game Of Thrones” Using Sentiment Analysis
 
 ## INTRODUCTION
 
